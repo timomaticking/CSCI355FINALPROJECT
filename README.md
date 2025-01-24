@@ -17,3 +17,7 @@ I handled the back end of the project. I updated the project to send fetch reque
 
 Here is the youtube link to the video walkthrough:
 https://youtu.be/3Msi8rU2odA
+
+
+Run by typing npm start in terminal
+and then go to local host 2000
