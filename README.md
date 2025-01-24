@@ -9,3 +9,7 @@ Quiz Zone is a fun and easy-to-use quiz platform where users can test their know
 The backend uses Node.js with Express.js, and we stored user data in a JSON file for now. 
 
 I had an amazing time working on this project with my teammates, Timothy Ng and Aditya Dwivedi. They were great to work with, and we all worked hard to make everything fit together smoothly. This project was a great experience, and I’m proud of what we built as a team.
+
+
+Timothy Ng
+I handled the back end of the project. I updated the project to send fetch requests to the OpentriviaDB, sent the responses all to the JSON files, I shuffled it before giving to users, I made it so that the project wasnt reliant on each fetch request since opentrivia gives bad request sometimes. When given a bad request, the response is skipped and the current JSON file of trivia questions gets re shuffled to send questions to the page. I also handled the MongoDB database, and had all the scores sent to my personal schema. And I handled connecting everyones code into this one project.
