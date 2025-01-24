@@ -13,3 +13,7 @@ I had an amazing time working on this project with my teammates, Timothy Ng and 
 
 Timothy Ng
 I handled the back end of the project. I updated the project to send fetch requests to the OpentriviaDB, sent the responses all to the JSON files, I shuffled it before giving to users, I made it so that the project wasnt reliant on each fetch request since opentrivia gives bad request sometimes. When given a bad request, the response is skipped and the current JSON file of trivia questions gets re shuffled to send questions to the page. I also handled the MongoDB database, and had all the scores sent to my personal schema. And I handled connecting everyones code into this one project.
+
+
+Here is the youtube link to the video walkthrough:
+https://youtu.be/3Msi8rU2odA
